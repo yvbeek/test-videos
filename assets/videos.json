@@ -1,0 +1,16 @@
+{
+  "videos": [
+    {
+      "title": "Sintel",
+      "url": "https://github.com/yvbeek/test-videos/raw/refs/heads/main/assets/sintel.mp4"
+    },
+    {
+      "title": "Sleepy Bunny",
+      "url": "https://github.com/yvbeek/test-videos/raw/refs/heads/main/assets/bunny.mp4"
+    },
+    {
+      "title": "JellyFish",
+      "url": "https://github.com/yvbeek/test-videos/raw/refs/heads/main/assets/jellyfish.mp4"
+    }
+  ]
+}
